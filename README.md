@@ -33,6 +33,23 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![IBM DB2](https://img.shields.io/badge/IBM_DB2-054ADA?style=flat&logo=ibm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Legacy Databases**
+
+![dBase III](https://img.shields.io/badge/dBase_III_Plus-lightgrey?style=flat)
+![MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=flat&logo=microsoftaccess&logoColor=white)
+![FoxPro](https://img.shields.io/badge/FoxPro-lightgrey?style=flat)
+
+**Legacy & Historical**
+
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=delphi&logoColor=white)
+![Clipper](https://img.shields.io/badge/Clipper-lightgrey?style=flat)
+![Visual Basic 6](https://img.shields.io/badge/Visual_Basic_6-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+> Experience with legacy systems is a key asset for modernization projects.
 
 **Platforms & Tools**
 
